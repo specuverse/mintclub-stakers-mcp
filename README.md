@@ -152,7 +152,8 @@ See `examples/` for:
 - paid-mode outputs (successful JSON payloads)
 
 Notes:
-- At time of writing, `GET /mcp/mintclub/pools` may intermittently return `500` from the backend. The repo includes a `pools.quote.json` invoice example regardless.
+- Previously this endpoint was observed returning intermittent `500`s.
+- **As of 2026-03-01**, a **paid** call returned **HTTP 200** successfully (`totalPools=241`, `v1Count=36`, `v2Count=205`). See: `examples/pools.paid.20260301T042109Z.json`
 
 ## License
 
