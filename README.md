@@ -1,6 +1,8 @@
-# mintclub-mcp — Pay-per-call MintClub staking data on Base
+# mintclub-stakers-mcp — Pay-per-call MintClub staking data on Base
 
-**What:** An API + client scripts to **list all MintClub staking pools (V1+V2)** and **export stakers of any pool**, enriched with **Farcaster profiles (Neynar)**.
+**What:** An API + client scripts to **list all MintClub staking pools (V1+V2)** and **export stakers of any pool**.
+
+**Key differentiator:** every staker can be **enriched with Farcaster identity + social metrics via Neynar** (fid, username, display name, pfp, follower count, Neynar score).
 
 **Why:** snapshots for airdrops targeting, anti-sybil heuristics, governance analysis, whale tracking, rewards distribution.
 
@@ -94,6 +96,17 @@ Example:
 ```bash
 ./scripts/mintclub-stakers.sh 157 limit=50 offset=0 includePool=true
 ```
+
+## Farcaster enrichment (Neynar)
+
+This backend can enrich onchain addresses with **Farcaster profiles via Neynar** so your staker exports are immediately usable.
+
+Typical enriched fields:
+- `fid`, `username`, `displayName`, `pfpUrl`
+- `followerCount`
+- `neynarScore`
+
+This enrichment is handled **server-side** (you don’t need to bring a Neynar API key).
 
 ## Authentication
 
