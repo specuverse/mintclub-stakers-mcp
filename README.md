@@ -153,7 +153,7 @@ See `examples/` for:
 
 Notes:
 - Previously this endpoint was observed returning intermittent `500`s.
-- **As of 2026-03-01**, a **paid** call returned **HTTP 200** successfully (`totalPools=241`, `v1Count=36`, `v2Count=205`). See: `examples/pools.paid.20260301T042109Z.json`
+- **As of 2026-03-01**, a **paid** call returned **HTTP 200** successfully (`totalPools=241`, `v1Count=36`, `v2Count=205`).
 
 ## License
 
