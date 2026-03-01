@@ -1,5 +1,5 @@
 {
-  "name": "@specuverse/mintclub-mcp",
+  "name": "mintclub-stakers-mcp",
   "version": "1.0.0",
   "description": "Pay-per-call MintClub staking data on Base (pools + stakers) via ERC-8128 auth + x402 micropayments.",
   "license": "MIT",
