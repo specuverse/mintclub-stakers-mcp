@@ -1,0 +1,31 @@
+{
+  "success": false,
+  "status": 402,
+  "poolId": 202,
+  "paid": true,
+  "mode": "quote",
+  "note": "Payment required. Set MCP_PAY=1 to authorize spending.",
+  "invoice": {
+    "x402Version": 2,
+    "error": "Payment required",
+    "resource": {
+      "url": "https://node.specuverse.xyz/mcp/mintclub/pool/202/stakers?version=v2",
+      "description": "MintClub pool stakers — onchain staking data (partnership MintClub)",
+      "mimeType": "application/json"
+    },
+    "accepts": [
+      {
+        "scheme": "exact",
+        "network": "eip155:8453",
+        "amount": "10000",
+        "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "payTo": "0x6cD054faD1210F8cc6F64f2564eAfc48A89FD455",
+        "maxTimeoutSeconds": 300,
+        "extra": {
+          "name": "USD Coin",
+          "version": "2"
+        }
+      }
+    ]
+  }
+}

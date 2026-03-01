@@ -1,0 +1,88 @@
+{
+  "success": true,
+  "status": 200,
+  "paid": true,
+  "data": {
+    "success": true,
+    "version": "v2",
+    "statusFilter": "active",
+    "v1Count": 0,
+    "v2Count": 205,
+    "totalPools": 6,
+    "pools": [
+      {
+        "poolId": 69,
+        "version": "v2",
+        "status": "active",
+        "stakingToken": {
+          "address": "0xb8de15fb529d98c93c749de63c749d48d25a30df",
+          "symbol": "NUT",
+          "name": "BASED NUT",
+          "decimals": 18
+        },
+        "activeStakerCount": 12
+      },
+      {
+        "poolId": 85,
+        "version": "v2",
+        "status": "active",
+        "stakingToken": {
+          "address": "0xd6614e72cb427717179e0c996817c754b330db07",
+          "symbol": "NUMB",
+          "name": "NumbSkull",
+          "decimals": 18
+        },
+        "activeStakerCount": 15
+      },
+      {
+        "poolId": 146,
+        "version": "v2",
+        "status": "active",
+        "stakingToken": {
+          "address": "0x03057942cea2b483a8574e8d49a67c56bb3d4b07",
+          "symbol": "OURBOI",
+          "name": "Rolly Boi on BASE",
+          "decimals": 18
+        },
+        "activeStakerCount": 5
+      },
+      {
+        "poolId": 152,
+        "version": "v2",
+        "status": "active",
+        "stakingToken": {
+          "address": "0x499bb239a66a3699022c59181ffad90d75a2096f",
+          "symbol": "kender7",
+          "name": "kender7",
+          "decimals": 18
+        },
+        "activeStakerCount": 4
+      },
+      {
+        "poolId": 186,
+        "version": "v2",
+        "status": "active",
+        "stakingToken": {
+          "address": "0x530eea5b478c10db6ac05e914ad3adf2a9d614d7",
+          "symbol": "GoudenAu",
+          "name": "GoudenAu",
+          "decimals": 18
+        },
+        "activeStakerCount": 14
+      },
+      {
+        "poolId": 202,
+        "version": "v2",
+        "status": "active",
+        "stakingToken": {
+          "address": "0x11d41056ff636107dd710ec4ea772490a710cdb7",
+          "symbol": "SPECU",
+          "name": "Speculation",
+          "decimals": 18
+        },
+        "activeStakerCount": 20
+      }
+    ]
+  },
+  "paymentProof": "eyJuZXR3b3JrIjoiZWlwMTU1Ojg0NTMiLCJwYXllciI6IjB4RDQyOTNCMDk3Y0NjMjdkNUNmMUUxRDg4YjQwMDY4QTJBZGM3Zjc5RCIsInN1Y2Nlc3MiOnRydWUsInRyYW5zYWN0aW9uIjoiMHg1OWNmNTI2ODk2ZWY1YTZjZWExYjdlNThmMDc4NjhhMDhiNjE4YWIy"
+}

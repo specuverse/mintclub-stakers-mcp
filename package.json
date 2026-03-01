@@ -1,0 +1,29 @@
+{
+  "name": "@specuverse/mintclub-mcp",
+  "version": "1.0.0",
+  "description": "Pay-per-call MintClub staking data on Base (pools + stakers) via ERC-8128 auth + x402 micropayments.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "bin": {
+    "mintclub-pools": "scripts/mintclub-pools.sh",
+    "mintclub-stakers": "scripts/mintclub-stakers.sh"
+  },
+  "keywords": [
+    "mintclub",
+    "staking",
+    "base",
+    "x402",
+    "mcp",
+    "farcaster",
+    "onchain"
+  ],
+  "dependencies": {
+    "@slicekit/erc8128": "^0.2.0",
+    "@x402/evm": "^2.3.1",
+    "@x402/fetch": "^2.3.0",
+    "viem": "^2.45.1"
+  }
+}

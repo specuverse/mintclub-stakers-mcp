@@ -1,0 +1,233 @@
+{
+  "success": true,
+  "status": 200,
+  "poolId": 202,
+  "paid": true,
+  "data": {
+    "success": true,
+    "poolId": 202,
+    "version": "v2",
+    "totalStakers": 20,
+    "pool": {
+      "poolId": 202,
+      "stakingToken": {
+        "address": "0x11d41056ff636107dd710ec4ea772490a710cdb7",
+        "symbol": "SPECU",
+        "name": "Speculation",
+        "decimals": 18
+      },
+      "rewardToken": {
+        "address": "0x11d41056ff636107dd710ec4ea772490a710cdb7",
+        "symbol": "SPECU",
+        "name": "Speculation",
+        "decimals": 18
+      },
+      "rewardAmount": "5000000000000000000000",
+      "rewardStartsAt": 1770772500,
+      "rewardStartedAt": 1770773151,
+      "rewardDuration": 3196080,
+      "totalStaked": "13497444347450386117955",
+      "cancelledAt": 0
+    },
+    "stakers": [
+      {
+        "address": "0x5d1fe030eca5046915e3b684e4581071c4e309c4",
+        "totalStaked": "3602.007046",
+        "fid": 1384242,
+        "username": "janic",
+        "displayName": "Jani",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5534b16c-a6fd-4635-afef-3a8ce63f4e00/original",
+        "followerCount": 309,
+        "neynarScore": 0.59
+      },
+      {
+        "address": "0x8c4fd873f04a366c5be844ae9a4ade94d8de2160",
+        "totalStaked": "3263.000000",
+        "fid": 350698,
+        "username": "siablo.eth",
+        "displayName": "Siablo 🧬 🌸🟧🎩",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c92e7f44-9a12-4935-5ffa-3582c82c2500/original",
+        "followerCount": 5101,
+        "neynarScore": 0.94
+      },
+      {
+        "address": "0x965f2225bc4657ad9e1a892e6299db312f2d5588",
+        "totalStaked": "1906.482920",
+        "fid": 332195,
+        "username": "sprofane",
+        "displayName": "Stencil Profane",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8d0f5e19-7657-4701-70f5-ff988df53e00/rectcrop3",
+        "followerCount": 282,
+        "neynarScore": 0.85
+      },
+      {
+        "address": "0x157c45ca10a026d3937945296155bf79091d88b4",
+        "totalStaked": "1872.896276",
+        "fid": 378176,
+        "username": "nfthreat.eth",
+        "displayName": "NFThreat ↑",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a62f21ad-ca4a-4b3a-e7c0-8de499d4b800/original",
+        "followerCount": 2444,
+        "neynarScore": 0.99
+      },
+      {
+        "address": "0xe36044fc1eb979e51275637d9531fc4ff8b533b7",
+        "totalStaked": "610.539837",
+        "fid": 1078279,
+        "username": "bbrown9506",
+        "displayName": "BBrown9506",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ba65c1ab-e45f-47e4-b230-3eb359ee2000/original",
+        "followerCount": 1105,
+        "neynarScore": 0.74
+      },
+      {
+        "address": "0x617077f8762990c5cb25378aa357aa14bf4c74d8",
+        "totalStaked": "413.421020",
+        "fid": 547375,
+        "username": "ahmad456677",
+        "displayName": "Ahmad572🪀🎩Ⓜ️",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9f4e3ea6-c5c8-4045-f864-7e874de35a00/rectcrop3",
+        "followerCount": 661,
+        "neynarScore": 0.58
+      },
+      {
+        "address": "0x3c70620311367e8d8ef0f0ffb4b4336c525ed7c3",
+        "totalStaked": "395.941793",
+        "fid": 1062481,
+        "username": "topp-airdrop",
+        "displayName": "Wish me luck  🧬",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1f878019-eb12-4251-ae8a-d4716cd63900/original",
+        "followerCount": 129,
+        "neynarScore": 0.51
+      },
+      {
+        "address": "0x5957101af1e151333b41a78bc84ed216470df801",
+        "totalStaked": "336.554759",
+        "fid": 531062,
+        "username": "zakriya",
+        "displayName": "The Big One 🧔🏻‍♂️",
+        "pfpUrl": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1766255823/6a604758-b11b-45b0-ab7b-30a48843dc17.jpg",
+        "followerCount": 619,
+        "neynarScore": 0.76
+      },
+      {
+        "address": "0x8c052651072407067aa37ac69ee91cff578875a1",
+        "totalStaked": "262.000000",
+        "fid": 401441,
+        "username": "woawoame",
+        "displayName": "Lemon🧬",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/44e76ea3-ff70-4da0-ae65-3373057c4900/original",
+        "followerCount": 6094,
+        "neynarScore": 0.91
+      },
+      {
+        "address": "0x8390618bc761431a266eb7b2d54c2290c57c653f",
+        "totalStaked": "210.568039",
+        "fid": 1456371,
+        "username": "indicawolf",
+        "displayName": "Indicawolf",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8fcbda89-a6d6-45a1-7fd7-34c737d09200/original",
+        "followerCount": 65,
+        "neynarScore": 0.22
+      },
+      {
+        "address": "0x35c3a97e5c8327ae68455d76988171930b3ea3e0",
+        "totalStaked": "130.000000",
+        "fid": 1111249,
+        "username": "chengsengchee",
+        "displayName": "sanchezcheng.base.eth",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34226509-a048-4c84-3200-c93bf78ef200/original",
+        "followerCount": 1368,
+        "neynarScore": 0.74
+      },
+      {
+        "address": "0x7e02c2da4910531b7d6e8b6bdafb69d13c71db1d",
+        "totalStaked": "100.000000",
+        "fid": 428395,
+        "username": "loyalmee",
+        "displayName": "Moshood🎩🔵 🌈🧬",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/b2594e74-4a2f-4b23-ba89-c0922f021300/rectcrop3",
+        "followerCount": 1125,
+        "neynarScore": 0.6
+      },
+      {
+        "address": "0x74fed975e5f1cb637d9471d1c5e291c8a428ee57",
+        "totalStaked": "83.000000",
+        "fid": 474644,
+        "username": "abeg007.eth",
+        "displayName": "abeg007 🧬",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5924100b-b4bf-4c48-99d5-6447aef98500/original",
+        "followerCount": 4304,
+        "neynarScore": 0.96
+      },
+      {
+        "address": "0x92257167080db4a4fdfc7c7cad7015c80b584f75",
+        "totalStaked": "80.000000",
+        "fid": 252884,
+        "username": "primitivee",
+        "displayName": "DegenBase.eth",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0d0b149d-5f9f-44a0-4b1a-f5d30801a300/original",
+        "followerCount": 1599,
+        "neynarScore": 0.88
+      },
+      {
+        "address": "0x2d756ee8b259eb66fe29ef3d9a27226f0e16e2ff",
+        "totalStaked": "76.140573",
+        "fid": 1323127,
+        "username": "alive3.base.eth",
+        "displayName": "Alive3App Base",
+        "pfpUrl": "https://res.cloudinary.com/base-app/image/upload/f_auto/v1767392489/f37889ed-fb40-4618-969b-71c5e55236b8.jpg",
+        "followerCount": 13,
+        "neynarScore": 0.12
+      },
+      {
+        "address": "0x1a96cac65578aec737851ca84cc18fbbe47c28b4",
+        "totalStaked": "74.106791"
+      },
+      {
+        "address": "0x8fcd8a4ab80fd0b8a4cbf506ac049b03b8de0fb8",
+        "totalStaked": "50.000000",
+        "fid": 541936,
+        "username": "zuny",
+        "displayName": "crezzang.eth",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5072ac24-0274-4f0d-d3d2-d27dd47a4100/original",
+        "followerCount": 1181,
+        "neynarScore": 0.61
+      },
+      {
+        "address": "0x4fda18e63954104ce8f0a75bd5086e6bcb717557",
+        "totalStaked": "20.899727",
+        "fid": 1327602,
+        "username": "alive3",
+        "displayName": "Aliv3 App",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/06110e7a-34a6-4d4f-42a3-dfa988700d00/original",
+        "followerCount": 31,
+        "neynarScore": 0.09
+      },
+      {
+        "address": "0xdd53c6e5a487f13a2bff447ba37d1a1daa658289",
+        "totalStaked": "5.768343",
+        "fid": 1108840,
+        "username": "euvouserdoutor",
+        "displayName": "Useless Boy",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/aa4efafa-7f58-4ca7-5085-9c52b1a0d600/original",
+        "followerCount": 3434,
+        "neynarScore": 0.76
+      },
+      {
+        "address": "0xb8f4754b4d07e34e9725af51b7725d5b8dd0dfa7",
+        "totalStaked": "4.117225",
+        "fid": 692211,
+        "username": "studi08f0rev3r",
+        "displayName": "STUDI08F0REV3R™",
+        "pfpUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9a9ce520-ca8a-4578-473c-9440fac73b00/rectcrop3",
+        "followerCount": 1037,
+        "neynarScore": 0.71
+      }
+    ],
+    "count": 20,
+    "offset": 0,
+    "hasMore": false
+  },
+  "paymentProof": "eyJuZXR3b3JrIjoiZWlwMTU1Ojg0NTMiLCJwYXllciI6IjB4RDQyOTNCMDk3Y0NjMjdkNUNmMUUxRDg4YjQwMDY4QTJBZGM3Zjc5RCIsInN1Y2Nlc3MiOnRydWUsInRyYW5zYWN0aW9uIjoiMHhkN2RlOGM3ZGU3YzhmYjI4MzdjMTY0MTFlYWU3OWMzNjg0MTgxZTky"
+}
